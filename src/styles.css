@@ -10,6 +10,7 @@
 .timer {
   width: auto;
   display: flex;
+  margin-bottom: 15px;
   background-color: rgb(217, 255, 0);
   border-radius: 10px;
 }
